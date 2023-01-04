@@ -43,7 +43,7 @@
    
  - 10th Project
  
-      [Github]() | [Live](https://10proj.netlify.app/)
+      [Github](https://github.com/avman1998/HTML-CSS-10th-Project-Ineuron) | [Live](https://10proj.netlify.app/)
    
  - 11th Project
 
@@ -68,7 +68,7 @@
    
  - 15th Project
 
-     [Github]() | [Live](https://15pro.netlify.app/)
+     [Github](https://github.com/avman1998/HTML-CSS-15th-Project-Ineuron) | [Live](https://15pro.netlify.app/)
    
    
   

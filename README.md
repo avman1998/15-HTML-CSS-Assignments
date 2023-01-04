@@ -43,7 +43,7 @@
    
  - 10th Project
  
-      [Github]() | [Live]()
+      [Github]() | [Live](https://10proj.netlify.app/)
    
  - 11th Project
 
@@ -68,7 +68,7 @@
    
  - 15th Project
 
-     [Github]() | [Live]()
+     [Github]() | [Live](https://15pro.netlify.app/)
    
    
   

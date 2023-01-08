@@ -51,7 +51,7 @@
  
  - 12th Project
 
-   [Github]() | [Live]()
+   [Github](https://github.com/avman1998/HTML-CSS-12Th-Project) | [Live](https://12pro.netlify.app/)
    
  - 13th Project
 

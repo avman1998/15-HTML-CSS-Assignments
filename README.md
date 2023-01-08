@@ -7,7 +7,7 @@
    
   - 2nd Project
 
-       [Github]() | [Live]()
+       [Github](https://github.com/avman1998/Restaurant) | [Live](https://restaurant-website-by-aman.netlify.app/)
    
    
   - 3rd Project

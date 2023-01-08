@@ -2,7 +2,7 @@
 
   - 1st Project
 
-       [Github]() | [Live]()
+       [Github](https://github.com/avman1998/Trend-in-2025) | [Live](https://the-trends-2025.netlify.app/)
    
    
   - 2nd Project

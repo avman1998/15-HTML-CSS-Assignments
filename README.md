@@ -55,7 +55,7 @@
    
  - 13th Project
 
-   [Github]() | [Live]()
+   [Github](https://github.com/avman1998/HTML-CSS-13Th-Project) | [Live](https://13pro.netlify.app/)
    
    
   
@@ -63,7 +63,7 @@
    
  - 14th Project
 
-     [Github]() | [Live]()
+     [Github](https://github.com/avman1998/HTML-CSS-14Th-Project) | [Live](https://pro14.netlify.app/)
    
    
  - 15th Project

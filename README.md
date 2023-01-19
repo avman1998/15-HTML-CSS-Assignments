@@ -39,7 +39,7 @@
    
   - 9th Project
 
-       [Github]() | [Live]()
+       [Github](https://github.com/avman1998/Developer-Landing-Page) | [Live](https://developer-landing-page-ineuron.netlify.app/)
    
  - 10th Project
  
